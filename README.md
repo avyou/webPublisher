@@ -16,4 +16,4 @@ webPublisher
 ![Alt text](https://raw.githubusercontent.com/avyou/webPublisher/master/document/7.png)
 ![Alt text](https://raw.githubusercontent.com/avyou/webPublisher/master/document/8.png)
 ![Alt text](https://raw.githubusercontent.com/avyou/webPublisher/master/document/9.png)
-![Alt text](https://raw.githubusercontent.com/avyou/webPublisher/master/document/10.png)
+![Alt text](https://raw.githubusercontent.com/avyou/webPublisher/master/document/11.png)
