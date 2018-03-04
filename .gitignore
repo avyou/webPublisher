@@ -1,0 +1,6 @@
+.idea
+*.pyc
+.svn
+logs/*
+mytest/*
+Glogs/*
