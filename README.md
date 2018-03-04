@@ -10,8 +10,7 @@ https://github.com/avyou/webPublisher
 #### 使用框架
 wxpython
 
-#### 作者
-赵子发
+#### 作者: 赵子发
 
 #### 工具截图：
 
